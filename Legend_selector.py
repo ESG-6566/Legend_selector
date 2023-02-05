@@ -29,7 +29,7 @@ def rw():
 
 rw()
 print(name,"\n")
-print('press Enter to see a other legend name')
+print('press Enter to see a other name')
 
 while(True):
     input('')
